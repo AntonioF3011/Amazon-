@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg4\\ConsoleApp\\ConsoleApp\\Amazon.csproj": {}
+    "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg4 - copia\\ConsoleApp\\ConsoleApp\\Amazon.csproj": {}
   },
   "projects": {
-    "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg4\\ConsoleApp\\ConsoleApp\\Amazon.csproj": {
+    "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg4 - copia\\ConsoleApp\\ConsoleApp\\Amazon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg4\\ConsoleApp\\ConsoleApp\\Amazon.csproj",
+        "projectUniqueName": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg4 - copia\\ConsoleApp\\ConsoleApp\\Amazon.csproj",
         "projectName": "Amazon",
-        "projectPath": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg4\\ConsoleApp\\ConsoleApp\\Amazon.csproj",
+        "projectPath": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg4 - copia\\ConsoleApp\\ConsoleApp\\Amazon.csproj",
         "packagesPath": "C:\\Users\\antof\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg4\\ConsoleApp\\ConsoleApp\\obj\\",
+        "outputPath": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg4 - copia\\ConsoleApp\\ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg4\\ConsoleApp\\CRM.Library\\CRM.Library.csproj": {
-                "projectPath": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg4\\ConsoleApp\\CRM.Library\\CRM.Library.csproj"
+              "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg4 - copia\\ConsoleApp\\CRM.Library\\CRM.Library.csproj": {
+                "projectPath": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg4 - copia\\ConsoleApp\\CRM.Library\\CRM.Library.csproj"
               }
             }
           }
@@ -69,18 +69,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg4\\ConsoleApp\\CRM.Library\\CRM.Library.csproj": {
+    "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg4 - copia\\ConsoleApp\\CRM.Library\\CRM.Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg4\\ConsoleApp\\CRM.Library\\CRM.Library.csproj",
+        "projectUniqueName": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg4 - copia\\ConsoleApp\\CRM.Library\\CRM.Library.csproj",
         "projectName": "CRM.Library",
-        "projectPath": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg4\\ConsoleApp\\CRM.Library\\CRM.Library.csproj",
+        "projectPath": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg4 - copia\\ConsoleApp\\CRM.Library\\CRM.Library.csproj",
         "packagesPath": "C:\\Users\\antof\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg4\\ConsoleApp\\CRM.Library\\obj\\",
+        "outputPath": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg4 - copia\\ConsoleApp\\CRM.Library\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -140,7 +140,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

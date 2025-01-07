@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4x+pzkLpInI=",
+  "dgSpecHash": "vtpPk/Xc10A=",
   "success": true,
-  "projectFilePath": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg4\\ConsoleApp\\ConsoleApp\\Amazon.csproj",
+  "projectFilePath": "C:\\Users\\antof\\OneDrive\\Desktop\\C#\\Assg4 - copia\\ConsoleApp\\ConsoleApp\\Amazon.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\antof\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
